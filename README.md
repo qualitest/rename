@@ -3,6 +3,4 @@ this is a test
 
 text
 
-Enter text
-
 
